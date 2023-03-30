@@ -46,3 +46,6 @@ Add more games to the arcade, and do it for free.
 ## Tests
 2 + 2 = 4
 
+## Page Preview
+
+![Nic Cage Arcade](./public/images/niccagearcade.png)
