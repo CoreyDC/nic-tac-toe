@@ -1,5 +1,5 @@
 # cageArcade
-
+this project was brought to you by the creative minds of Seriously Sticky Student Solutions INC Jeff Drever, Danielle Sison, Justin Crowson, Josh Romani, Vageli Stathatos, George Jordan, Corey Calbreath.
 ## Description
 
 This web page is heavily inspired by admiration for Nicholas Cage and classic games. The team behind the production wanted to use our humor and skill to innovate a place to play games and laugh at the results of extreme method acting. There simply was not enough Cage fanatisism on the web. Now there is. You're welcome internet.
@@ -27,17 +27,13 @@ This project was brought to you by the creative minds; Danielle Sison, Vageli St
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+none today
 
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+🏆 
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+none today
 
 ## Features
 
